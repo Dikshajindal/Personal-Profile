@@ -212,7 +212,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Images\about-pic.jpg" />
+    <Content Include="Images\about-pic.jpeg" />
     <Content Include="Images\arrow.png" />
     <Content Include="Images\b1.jpg" />
     <Content Include="Images\b2.jpg" />
@@ -221,6 +221,7 @@
     <Content Include="Images\contact.jpeg" />
     <Content Include="Images\contact.jpg" />
     <Content Include="Images\header-bg.jpg" />
+    <Content Include="Images\img1.jpeg" />
     <Content Include="Images\img1.jpg" />
     <Content Include="Images\left-arrow.png" />
     <Content Include="Images\menu.png" />
